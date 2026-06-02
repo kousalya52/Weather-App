@@ -88,7 +88,7 @@ git clone https://github.com/kousalya52/weather-app.git
 
 ## 🌐 Live Demo
 
-
+ https://kousalya52.github.io/Weather-App/
 
 ## 🎯 Future Enhancements
 
