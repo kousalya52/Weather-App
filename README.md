@@ -25,6 +25,10 @@ A responsive Weather Application built using **HTML, CSS, and JavaScript** that 
 
 ## 📸 Screenshot
 
+<img width="1911" height="897" alt="Screenshot 2026-06-02 132525" src="https://github.com/user-attachments/assets/272ad9df-8a2e-4d84-a452-f176d02555ad" />
+
+
+
 ## 📂 Project Structure
 
 ```text id="s7m4yq"
