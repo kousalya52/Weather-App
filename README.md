@@ -2,6 +2,10 @@
 
 A responsive Weather Application built using **HTML, CSS, and JavaScript** that fetches real-time weather data using the **OpenWeatherMap API**. Users can search for any city and instantly view current temperature, humidity, wind speed, and weather conditions.
 
+## 🌐 Live Demo
+
+ https://kousalya52.github.io/Weather-App/
+
 ## 🚀 Features
 
 * Search weather by city name
@@ -22,12 +26,6 @@ A responsive Weather Application built using **HTML, CSS, and JavaScript** that 
 * CSS3
 * JavaScript (ES6)
 * OpenWeatherMap API
-
-## 📸 Screenshot
-
-<img width="1911" height="897" alt="Screenshot 2026-06-02 132525" src="https://github.com/user-attachments/assets/272ad9df-8a2e-4d84-a452-f176d02555ad" />
-
-
 
 ## 📂 Project Structure
 
@@ -90,10 +88,6 @@ git clone https://github.com/kousalya52/weather-app.git
 
 3. Open `index.html` in your browser.
 
-## 🌐 Live Demo
-
- https://kousalya52.github.io/Weather-App/
-
 ## 🎯 Future Enhancements
 
 * 5-day weather forecast
@@ -110,6 +104,11 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 📸 Screenshot
+
+<img width="1911" height="897" alt="Screenshot 2026-06-02 132525" src="https://github.com/user-attachments/assets/272ad9df-8a2e-4d84-a452-f176d02555ad" />
+
 
 ## 👩‍💻 Author
 
